@@ -9,7 +9,7 @@
 | Demonstreerbaarheid     | core functionaliteit van de app werkt, maar de app is verre van volledig omdat randzaken zoals authenticatie ontbreken (nog als todo zijn aangemerkt) of gemockt zijn. | core functionaliteit van de app werkt, maar de app is verre van volledig omdat schermen die niet strikt noodzakelijk zijn voor de kernfunctionaliteit ontbreken of gemockt zijn (voorbeeld: inlogschermen)  | app bevat weinig of geen kern functionaliteit                                                                                                 |   |
 | Gave code dingen        | Je verrast de docent met gave dingen                                                                                                                                   |                                                                                                                                                                                                             |                                                                                                                                               |   |
 
-Beoordeling: Alles moet voldoende zijn.
-Als alles voldoende: 5,5
-Daarna, 0,5 punt per goed
-Daarna, maximaal 2,5 punt voor gave dingen (als je wilt checken of iets gaaf is, vraag het dan vooral aan je docent)
+Beoordeling: Alles moet voldoende zijn. |
+Als alles voldoende: 5,5.|
+Daarna, 0,5 punt per goed.|
+Daarna, maximaal 2,5 punt voor gave dingen (als je wilt checken of iets gaaf is, vraag het dan vooral aan je docent)|
