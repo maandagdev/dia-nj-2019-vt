@@ -1,7 +1,7 @@
-De eerste app die je gaat maken is een simpele app waarbij je een app maakt waarin je een sensor (bijv. microfoon, camera, dieptesensor, gyroscoop, accelerometer) koppelt aan een hele specifieke doelgroep. 
+De eerste app die je gaat maken is er een waarbij je een sensor (bijv. microfoon, camera, dieptesensor, gyroscoop, accelerometer) koppelt aan een hele specifieke doelgroep waardoor er een geinig, behapbaar concept ontstaat. De app moet voldoen aan de eisen die hieronder opgesomd staan. Er zijn bonuspunten te verdienen door de app complexer te maken, patterns toe te passen, etc.
 
 In de les zorgen we ervoor dat iedereen een concept heeft. 
-Hoe je beoordeeld wordt staat hieronder.
+
 
 |                         | Goed                                                                                                                                                                   | Voldoende                                                                                                                                                                                                   | KNOCK OUT                                                                                                                                     |   |
 |-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|---|
