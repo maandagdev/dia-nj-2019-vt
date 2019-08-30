@@ -1,3 +1,8 @@
+De eerste app die je gaat maken is een simpele app waarbij je een app maakt waarin je een sensor (bijv. microfoon, camera, dieptesensor, gyroscoop, accelerometer) koppelt aan een hele specifieke doelgroep. 
+
+In de les zorgen we ervoor dat iedereen een concept heeft. 
+Hoe je beoordeeld wordt staat hieronder.
+
 |                         | Goed                                                                                                                                                                   | Voldoende                                                                                                                                                                                                   | KNOCK OUT                                                                                                                                     |   |
 |-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|---|
 | ingewikkelde ios api    |                                                                                                                                                                        | bulk complexiteit zit in frontend                                                                                                                                                                           | bulkcomplexiteit zit in backend                                                                                                               |   |
@@ -9,7 +14,7 @@
 | Demonstreerbaarheid     | core functionaliteit van de app werkt, maar de app is verre van volledig omdat randzaken zoals authenticatie ontbreken (nog als todo zijn aangemerkt) of gemockt zijn. | core functionaliteit van de app werkt, maar de app is verre van volledig omdat schermen die niet strikt noodzakelijk zijn voor de kernfunctionaliteit ontbreken of gemockt zijn (voorbeeld: inlogschermen)  | app bevat weinig of geen kern functionaliteit                                                                                                 |   |
 | Gave code dingen        | Je verrast de docent met gave dingen                                                                                                                                   |                                                                                                                                                                                                             |                                                                                                                                               |   |
 
-|Beoordeling: Alles moet voldoende zijn. |
-|Als alles voldoende: 5,5.|
-|Daarna, 0,5 punt per goed.|
-|Daarna, maximaal 2,5 punt voor gave dingen (als je wilt checken of iets gaaf is, vraag het dan vooral aan je docent)|
+Beoordeling: Alles moet voldoende zijn. 
+Als alles voldoende is heb je een 5,5.
+Voor elke goed die daarna scoort krijg je 0,5 punten erbij.
+Daarna krijg je maximaal 2,5 punt voor gave dingen (als je wilt checken of iets gaaf is, vraag het dan vooral aan je docent)
