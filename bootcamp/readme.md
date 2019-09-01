@@ -1,1 +1,1 @@
-Hier komen alle files van de bootcamp.
+We gaan een app bouwen die er voor zorgt dat we elkaar leren kennen.
