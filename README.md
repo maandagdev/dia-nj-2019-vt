@@ -1,5 +1,7 @@
 # dia-nj-2019-vt
 
+Programma bootcamp: https://docs.google.com/presentation/d/1fqPDU-5jnn5RSmSA5KtvPLB9Nx1VBceqPN90O89LdxQ/edit?usp=sharing
+
 | Week | Datum | Les 1                                    | les 2                    |
 |------|-------|------------------------------------------|--------------------------|
 | 1    | 02/09 | Bootcamp                                 | Bootcamp                 |
